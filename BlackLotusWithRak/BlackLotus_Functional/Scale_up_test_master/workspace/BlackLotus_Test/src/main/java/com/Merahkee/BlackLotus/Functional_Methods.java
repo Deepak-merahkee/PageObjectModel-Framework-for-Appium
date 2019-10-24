@@ -9,6 +9,6 @@ public class Functional_Methods {
 		
 	}
 	public static void f2() {
-		printf("test will be passed if the jenkin invokes f2 method");
+		printf("test is passed because the jenkin method has invoked f2 method, that is why this message is priting");
 	}
 }
